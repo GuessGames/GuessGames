@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://forge-rp.net/hero-poster.png" width="100%" alt="Forge Roleplay"/>
-
 <img src="./assets/logo.png" alt="Forge Roleplay" width="96"/>
 
 <br/>
