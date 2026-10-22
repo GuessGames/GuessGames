@@ -12,8 +12,4 @@
   <img src="https://img.shields.io/badge/Website-forge--rp.net-FF9D00?style=for-the-badge&labelColor=0C0A07&color=FF9D00" alt="Website"/>
 </a>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C0A07,40:1A1208,100:0C0A07&height=120&section=footer&text=forge-rp.net&fontSize=20&fontColor=FF9D00&animation=fadeIn&fontAlignY=70" alt=""/>
-
 </div>
